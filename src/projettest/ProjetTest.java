@@ -15,6 +15,6 @@ public class ProjetTest {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.print("hello");
+        System.out.print("hello world, this is the first exame");
     }
 }
